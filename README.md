@@ -1,1 +1,1 @@
-# Move-Forward-
+It's A Educational Website It is crreated by using HTML , CSS. In this website all the technical lacture all present. For each technical lecture diffrent 9,10 source are given. If you want to learn some tech language then you have to simply go on your specific language. All the lecture you will get there. If you want somethnig update then you can send me a message I will try to update as per you requirement. Thanks for visiting here.
