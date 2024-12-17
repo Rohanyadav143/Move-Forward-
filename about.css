@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 140%;
+    background-color: rgb(22, 22, 22);
+}
+
+.mainclass{
+    background-color: rgb(29, 29, 29);
+    width: 70%;
+    height: 100%;
+    margin-left: 15%;
+}
+
+.headerclass{
+    background-color: rgb(30, 30, 30);
+    color: rgb(177, 175, 173);
+    display: flex;
+    height: 20%;
+    width: 90%;
+    margin-left: 5%;
+    align-items: center;
+    justify-content: right;
+    justify-content: space-between;
+}
+
+#profileid{
+    background-image: url("profile.jpeg");
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    height: 30%;
+    width: 6%;
+    margin-right: -45%;
+    margin-left: 5%;
+    border-radius: 2vh;
+}
+
+.headerclass a{
+    font-weight: bolder;
+    color: rgb(206, 204, 204);
+    text-decoration: none;
+    margin-left: -40%;
+    margin-right: 3%;
+    font-size: large;
+}
+
+.headerclass :hover{
+    color: rgb(217, 171, 21);
+    cursor: pointer;
+}
+
+#abouth{
+    color: rgb(243, 144, 14);
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#sectionid{
+    height:85%;
+    color: antiquewhite;
+    font-size:3vh;
+}
+
+#sectionid p{
+    height: 10%;
+}
+
+#sectionid h2{
+    height: 10%;
+    margin-top: 1%;
+    background-color: rgb(40, 39, 38);
+    color: rgb(214, 181, 14);
+    align-content: center;
+    border-radius: 1vh;
+}
+
+#sectionid ul{
+    height: 20%;
+    margin-top: 2%;
+}
+
+#sectionid li{
+    height: 20%;
+}
+
+footer{
+    font-size: 3vh;
+    height: 5%;
+    border-radius: 2vh;
+    text-align: center;
+    margin-top: -5.5%;
+    padding-top: 10%;
+    background-color: rgb(34, 35, 35);
+}
+
+#contp{
+    color: rgb(255, 191, 0);
+    text-align: center;
+    border-radius: 2vh;
+}
+
+#lettalk{
+    font-size: 5vh;
+    margin-left: 45%;
+    margin-bottom: 10%;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+#lettalk:hover{
+    color: rgb(255, 0, 111);
+}

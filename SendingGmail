@@ -1,0 +1,11 @@
+Send email from your website to your gmail as a message.
+
+Create From like <form action="" method="Post">
+in the action link like = "https://formsubmit.co/rohn1895@gmail.com" and gmail will be that which is verified from form submit.(rohn1895@gmail.com)
+
+
+How to verify.
+Go to FromSubmit
+Scroll down 1.Connect to yourform copy that link that link is same what i have mention above <form action="https://formsubmit.co/your@email.com" method="POST"> and at the place of "your@email.com" you have to replace your email which had verified from form submit by sending mail to your gmail "https://formsubmit.co/rohn1895@gmail.com"
+
+Now go on top click email link enter your email one message is go to your email cilck on active if active then you can use that email in from.
